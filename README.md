@@ -11,11 +11,11 @@ The program is broken down into three portions.
 
 ###Daily
 
--- ChangeMakers: an experience that provides youth with the tools and training they need to be powerful and thoughtful citizens and leaders. This portion has 100 teens and is run by the [Mikva Challenge](http://www.mikvachallenge.org/summer/) and it runs five days a week.
+- ChangeMakers: an experience that provides youth with the tools and training they need to be powerful and thoughtful citizens and leaders. This portion has 100 teens and is run by the [Mikva Challenge](http://www.mikvachallenge.org/summer/) and it runs five days a week.
 
--- DocuMakers: an experience that provides youth the opportunity to develop and practice skills in media and technology, as they produce engaging media stories that highlight important activities taking place amongst the youth in Chicago. This portion has 40 teens is run by [Free Spirt Media](http://www.freespiritmedia.org/) and it runs five days a week. 
+- DocuMakers: an experience that provides youth the opportunity to develop and practice skills in media and technology, as they produce engaging media stories that highlight important activities taking place amongst the youth in Chicago. This portion has 40 teens is run by [Free Spirt Media](http://www.freespiritmedia.org/) and it runs five days a week. 
 
 ###Weekly
 
--- OpenMakers: an experience that provides youth with concrete tools and conceptual thinking around open technology. This portion brings all 140 teens in the program together on weekly on Friday mornings and is run by the [Smart Chicago Collaborative](http://www.smartchicagocollaborative.org/).
+- OpenMakers: an experience that provides youth with concrete tools and conceptual thinking around open technology. This portion brings all 140 teens in the program together on weekly on Friday mornings and is run by the [Smart Chicago Collaborative](http://www.smartchicagocollaborative.org/).
 
