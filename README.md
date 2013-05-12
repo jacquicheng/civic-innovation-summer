@@ -7,7 +7,7 @@ This repository contains detailed instructions on how to implement this program 
 
 ##Program Components
 
-The program is broken down into three portions.
+The program is broken down into three portions, run by three different organizations and formed into one cohesive summer experience.
 
 1. **ChangeMakers**: an experience that provides youth with the tools and training they need to be powerful and thoughtful citizens and leaders. This portion has 100 teens and is run by the [Mikva Challenge](http://www.mikvachallenge.org/summer/) and it runs five days a week.
 
