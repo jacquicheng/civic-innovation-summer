@@ -1,7 +1,7 @@
 Civic Innovation Summer
 =======================
 
-Civic Innovation Summer is a 5-week program of civics, media, and technology training for teens conducted in the summer of 2013 in Chicago, IL.
+Civic Innovation Summer is a 6-week program of civics, media, and technology training for teens conducted in the summer of 2013 in Chicago, IL.
 
 This repository contains detailed instructions on how to implement this program anywhere. It contains day-by-day/ hour-by-hour notes on logistics, links to complete curriculum for download, and descriptions of how in-the-moment engagement with the youth led to changes in the program.
 
