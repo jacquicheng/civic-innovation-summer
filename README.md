@@ -43,3 +43,14 @@ Wufoo for tech setup
 
 Posting within councils and aggregated into a larger stream.
 
+##Friday morning sessions
+
+Needs to be done in the context of the overall program. We will review and be simpatico with the pedagogical system that the programs have developed.
+
+Need to think about how much of the 4 hours is spent in large group. Will there be smaller groups?
+
+First half hour is with prgram staff to engage the youth in some way.
+
+How long for lunch?
+
+How about an office hours/ coachong situation? Add more staff for consultations. Can use the guest speakers as well.
