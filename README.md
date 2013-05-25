@@ -30,7 +30,14 @@ There are a number of pieces of software we're using to manage this program:
 
 There are three organizations running six groups of youth:
 
-Five councils on the Mikva side (inser)
+Five councils organized by the Mikva Challenge
+
+Mayor’s Youth Council: youth working to make policy recommendations in a series of areas
+Education: youth working with Chicago Public School officials 
+Health: youth working with leadership of the Chicago Department of Public Health to raise awareness of health issues
+Safety: youth working with the government of Cook County to address juvenille justice
+Aldermen: 30 youth working directly with Aldermen
+
 Documakers: 15 youth working on media
 Interns: 5 youth at tech companies
 
